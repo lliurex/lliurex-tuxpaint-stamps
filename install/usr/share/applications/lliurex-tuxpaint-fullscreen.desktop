@@ -1,8 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=LliureX Art (Fullscreen)
-Name[es]=LliureX Art a pantalla completa
-Name[qcv]=LliureX Art a pantalla completa
+Name=TuxPaint (Fullscreen)
+Name[es]=TuxPaint pantalla completa
+Name[qcv]=TuxPaint a pantalla completa
+Name[ca_ES@valencia]=TuxPaint a pantalla completa
+Name[ca_ES.UTF-8@valencia]=TuxPaint a pantalla completa
 Type=Application
 Exec=lliurex-tuxpaint --fullscreen
 Icon=tuxpaint
@@ -11,5 +13,7 @@ Categories=Application;Graphics;
 Comment=A drawing program for create a LliureX collages
 Comment[ca]=Un programa de dibuix per a crear collages basats en LliureX
 Comment[qcv]=Un programa de dibuix per a crear collages basats en LliureX
+Comment[ca_ES@valencia]=Un programa de dibuix per a crear collages basats en LliureX
+Comment[ca_ES.UTF-8@valencia]=Un programa de dibuix per a crear collages basats en LliureX
 Comment[es]=Un programa de dibujo para crear collages basados en LliureX
 TryExec=/usr/bin/lliurex-tuxpaint
