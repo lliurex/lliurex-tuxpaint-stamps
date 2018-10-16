@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LliureX Art (Fullscreen)
+Name[es]=LliureX Art a pantalla completa
+Name[qcv]=LliureX Art a pantalla completa
+Type=Application
+Exec=lliurex-tuxpaint --fullscreen
+Icon=/usr/share/lliurex/pixmaps/lliurex_art/stamps/lliurex-default.png
+Terminal=0
+Categories=Application;Graphics;
+Comment=A drawing program for create a LliureX collages
+Comment[ca]=Un programa de dibuix per a crear collages basats en LliureX
+Comment[qcv]=Un programa de dibuix per a crear collages basats en LliureX
+Comment[es]=Un programa de dibujo para crear collages basados en LliureX
+TryExec=/usr/bin/lliurex-tuxpaint
