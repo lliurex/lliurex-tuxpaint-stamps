@@ -1,0 +1,18 @@
+#!/bin/sh
+
+TUXPAINT_DIR=~/tuxpaint
+ARG=$1
+
+[ -d ${TUXPAINT_DIR} ] || mkdir $TUXPAINT_DIR
+echo $ARG
+
+if [ "$ARG" = "--fullscreen" ];then
+	RES=$(xrandr  | grep "*" | cut -d " " -f 4)
+	echo $RES
+	tuxpaint --$RES --savedir ~/tuxpaint
+else
+	tuxpaint --savedir ~/tuxpaint
+fi	
+
+exit 0
+
