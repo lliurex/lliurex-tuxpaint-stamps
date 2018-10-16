@@ -8,7 +8,7 @@ Standards-Version: 4.1.2
 
 Package: lliurex-tuxpaint-stamps
 Architecture: all
-Depends: tuxpaint, zenity 
+Depends: tuxpaint
 Description: LliureX Tuxpaint
  LliureX Tux Paint is meant to be a simple drawing program, 
  with LLiureX official images.
