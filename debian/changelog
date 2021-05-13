@@ -1,0 +1,148 @@
+lliurex-tuxpaint-stamps (0.26.15) focal; urgency=medium
+
+  * Added new stamps
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 13 May 2021 11:39:28 +0200
+
+lliurex-tuxpaint-stamps (0.16.15) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 16 Oct 2018 15:29:02 +0200
+
+lliurex-tuxpaint-stamps (0.16.5) xenial; urgency=medium
+
+  * Ported trusty code to xenial
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 02 Feb 2016 14:43:27 +0100
+
+lliurex-tuxpaint-stamps (0.16.4) trusty; urgency=high
+
+  * Fixed desktops 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Fri, 17 Apr 2015 19:36:27 +0200
+
+lliurex-tuxpaint-stamps (0.16.3) trusty; urgency=medium
+
+  * Deleting obsolete depend from llxcfg-desktops-keeper 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 16 Jan 2015 12:53:30 +0100
+
+lliurex-tuxpaint-stamps (0.16.2) trusty; urgency=medium
+
+  *Launched for trusty 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 16 Jan 2015 12:23:29 +0100
+
+lliurex-tuxpaint-stamps (0.16.1) precise; urgency=low
+
+  * Updated
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Tue, 24 Sep 2013 15:56:59 +0200
+
+lliurex-tuxpaint-stamps (0.16) precise; urgency=high
+
+  * Launched for precise 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Tue, 24 Sep 2013 12:31:35 +0200
+
+lliurex-tuxpaint-stamps (0.14) unstable; urgency=low
+
+  * Launched for Nemo
+
+ -- Francisco Antonino Daviu <antonino_fra@gva.es>  Fri, 27 Jan 2012 11:45:03 +0100
+
+lliurex-tuxpaint-stamps (0.13) unstable; urgency=low
+
+  * Restores screen resolution in full screen mode.
+
+ -- José A. Múrcia <murcia_josand@gva.es>  Fri, 27 May 2011 12:03:13 +0200
+
+lliurex-tuxpaint-stamps (0.12) unstable; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Mon, 27 Sep 2010 14:07:12 +0200
+
+lliurex-tuxpaint-stamps (0.11) unstable; urgency=low
+
+  * Fixed string
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Mon, 27 Sep 2010 13:41:12 +0200
+
+lliurex-tuxpaint-stamps (0.10) unstable; urgency=low
+
+  * Fixed to leia
+  
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 30 Oct 2009 13:47:48 +0100
+
+lliurex-tuxpaint-stamps (0.7) unstable; urgency=low
+
+  * Added new desktop to launch tuxpaint at fullscreen 
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 30 Oct 2009 13:47:03 +0100
+
+lliurex-tuxpaint-stamps (0.6) unstable; urgency=low
+
+  * Refixed category -> Graphis (one more time)
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Tue, 23 Jun 2009 17:59:34 +0200
+
+lliurex-tuxpaint-stamps (0.5) unstable; urgency=low
+
+  * Fixed category -> Education
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Wed, 28 Jan 2009 12:52:49 +0100
+
+lliurex-tuxpaint-stamps (0.4) unstable; urgency=low
+
+  * First Release for Indy
+  * Uploaders Fixed
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Wed, 28 Jan 2009 12:46:04 +0100
+
+lliurex-tuxpaint-stamps (0.3) unstable; urgency=low
+
+  * LliureX Tuxpaint Stamps to gutsy 
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Wed, 27 Feb 2008 17:06:29 +0100
+
+lliurex-tuxpaint-stamps (0.2.3) feisty; urgency=low
+
+  * Added lliurex 7.11 version images 
+
+ -- Pablo Marquez Soler <marquez_pab@gva.es>  Tue, 11 Dec 2007 09:38:54 +0100
+
+lliurex-tuxpaint-stamps (0.2.2) feisty; urgency=low
+
+  * First Ubuntu versions 
+  * Scripts changed to use qcv locale
+
+ -- Fco Javier Lopez Perez <lopez_frajav@gva.es>  Tue, 29 May 2007 13:32:29 +0200
+
+lliurex-tuxpaint-stamps (0.2.1) unstable; urgency=low
+
+  * Added init information message
+  * Added zenity depends
+
+ -- Raul Juncos Castillo <juncos_rau@gva.es>  Thu, 22 Sep 2005 10:54:01 +0200
+
+lliurex-tuxpaint-stamps (0.2) unstable; urgency=low
+
+  * Revised lliurex-tuxpaint launcher (with more information for user)
+  * Changed desktop icon
+
+ -- Raul Juncos Castillo <juncos_rau@gva.es>  Thu, 22 Sep 2005 06:20:15 +0200
+
+lliurex-tuxpaint-stamps (0.1.1) unstable; urgency=low
+
+  * Revised depends
+
+ -- Raul Juncos Castillo <juncos_rau@gva.es>  Wed, 21 Sep 2005 14:40:59 +0200
+
+lliurex-tuxpaint-stamps (0.1) unstable; urgency=low
+
+  * Initial Released
+
+ -- Raul Juncos Castillo <juncos_rau@gva.es>  Mon, 19 Sep 2005 10:58:25 +0200
