@@ -1,0 +1,14 @@
+Source: lliurex-tuxpaint-stamps
+Section: base
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Equipo LliureX <lliurex@gva.es>
+Build-Depends: cdbs, debhelper (>= 10)
+Standards-Version: 4.1.2
+
+Package: lliurex-tuxpaint-stamps
+Architecture: all
+Depends: tuxpaint
+Description: LliureX Tuxpaint
+ LliureX Tux Paint is meant to be a simple drawing program, 
+ with LLiureX official images.
