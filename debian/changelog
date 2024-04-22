@@ -1,3 +1,9 @@
+lliurex-tuxpaint-stamps (0.36.16) jammy; urgency=medium
+
+  * Added extra stamps from Lx23 artwork
+
+ -- Enrique Medina Gremaldos <quique@necos.es>  Mon, 22 Apr 2024 11:22:35 +0200
+
 lliurex-tuxpaint-stamps (0.36.15) jammy; urgency=medium
 
   * Initial release for Jammy
